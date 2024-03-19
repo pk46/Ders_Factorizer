@@ -1,1 +1,5 @@
-# Ders_Factorizer
+Our colleague, we can call him Jonas, came into the work today and there was only one task prepared for him. He was supposed to write a program that reads numbers from an input file and writes out factorials in the shape “number! = factorial” as quickly as possible. Each result should be written out on one line.
+Mathias, Jonas’s team leader, had one more request for calculation in more threads so that already existing calculation shouldn’t be repeated. E.g. when numbers 12 and 10 are on the input, for 12 the program will multiply it only twice.
+Unfortunately yesterday Jonas stayed a little bit longer at a team building event and today his output is corresponding: http://pastebin.com/fVwfRaxE
+Are you able to help Jonas and tell him what he is supposed to do in different way so that Mathias’s team is successful?
+Please submit working code or at least the Jonas’s one commented, so that he knows what to correct and how (or provide us with a link to pastebin or google drive, which is accessible without logging in).
